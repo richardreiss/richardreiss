@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Richard 👋
 
-<!--
-**richardreiss/richardreiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Systems Analysis and Development (ADS)** student focusing on **AI Process Automation, Workflow Optimization, and Integration Solutions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **Education:** Systems Analysis and Development (ADS) at UniAnchieta
+- 💼 **Background:** Administrative & HR Process Operations (Quorum)
+- 🎯 **Core Focus:** AI Agents, Prompt Engineering, Process Automation, APIs & Webhooks
+- 🛠️ **Tech Stack:** Python, Java (Fundamentals), Make/n8n, Git/GitHub, REST APIs
+
+---
+
+### 🌐 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/richard-reiss
